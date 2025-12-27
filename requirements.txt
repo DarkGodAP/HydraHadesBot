@@ -1,4 +1,5 @@
 py-cord>=2.1.0
 yt-dlp>=2025.12.1
-youtubesearchpython>=1.6.6
+# Optional search helper; install manually if needed
+# youtubesearchpython
 spotipy>=2.22.1
